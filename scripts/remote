@@ -1,0 +1,1432 @@
+on *:text:*!beer*:# {
+  if (!$2) {
+    inc %beer
+    describe # passes $nick a beer!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # passes herself a beer bong!
+  }
+  else {
+    inc %beer
+    describe # passes $2 the beer bong!
+  }
+}
+on *:text:*!whiskey*:# {
+  if (!$2) {
+    inc %beer
+    describe # passes $nick a shot of Macallan 18 Year Old!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # passes herself a shot of Jack!
+  }
+  else {
+    inc %beer
+    describe # passes $2 a shot of Macallan 18 Year Old!
+  }
+}
+on *:text:*!tequila*:# {
+  if (!$2) {
+    inc %beer
+    describe # passes $nick a shot of cazadores!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # swallows the worm!
+  }
+  else {
+    inc %beer
+    describe # passes $2 a shot of cazadores!
+  }
+}
+on *:text:*!vodka*:# {
+  if (!$2) {
+    inc %beer
+    describe # passes $nick a double Grey Goose and tonic!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # pours vodka on her fupa!
+  }
+  else {
+    inc %beer
+    describe # passes $2 a double Grey Goose and tonic!
+  }
+}
+on *:text:*!gin*:# {
+  if (!$2) {
+    inc %beer
+    describe # passes $nick a double gin and tonic!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # pours a shot of gin on her fupa!
+  }
+  else {
+    inc %beer
+    describe # passes $2 a double gin and tonic!
+  }
+}
+on *:text:*!joint*:# {
+  if (!$2) {
+    inc %beer
+    describe # passes $nick a fat blunt.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # passes out!
+  }
+  else {
+    inc %beer
+    describe # passes $2 a fat blunt.
+  }
+}
+on *:text:*!coke*:# {
+  if (!$2) {
+    inc %beer
+    describe # cuts 2 lines from her 8 ball and passes the mirror to $nick
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # passes herself a beer bong!
+  }
+  else {
+    inc %beer
+    describe # cuts 2 lines from her 8 ball and passes the mirror to $2 
+  }
+}
+on *:text:*!pinksock*:# {
+  if (!$2) {
+    inc %beer
+    describe # straps on a dildo and fucks $nick in the ass until $nick 's rectum pops out!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # !
+  }
+  else {
+    inc %beer
+    describe # straps on a dildo and fucks $2 in the ass until $2 's  rectum pops out !
+  }
+}
+on *:text:*!shittymouse*:# {
+  if (!$2) {
+    inc %beer
+    describe # wipes her dirty ass with $nick mouse.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # sticks the mouse up her ass.
+  }
+  else {
+    inc %beer
+    describe # wipes her dirty ass with $2 's mouse.
+  }
+}
+on *:text:*!tease*:# {
+  if (!$2) {
+    inc %beer
+    describe # lifts up her skirt, you want some fupa $nick ?
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # lifts up her fupa.
+  }
+  else {
+    inc %beer
+    describe # rubs her fupa on $2
+  }
+}
+on *:text:*!blowjob*:# {
+  if (!$2) {
+    inc %beer
+    describe # unzips $nick 's pants and goes down on him.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # straps on a dildo and sucks her own dick.
+  }
+  else {
+    inc %beer
+    describe # deepthroats $2  
+  }
+}
+on *:text:*!atm*:# {
+  if (!$2) {
+    inc %beer
+    describe # straps on a dildo and fucks $nick in the ass then sticks it in $nick 's mouth.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # fuck me in the ass then stick it in my mouth!
+  }
+  else {
+    inc %beer
+    describe # straps on a dildo and fucks $2 in the ass then sticks it in $2 's mouth.  
+  }
+}
+on *:text:*!bunny*:# {
+  if (!$2) {
+    inc %beer
+    describe # calls up Hef and orders 3 hot bunnies for $nick
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # Bunnies dont have Fupas, bitch.
+  }
+  else {
+    inc %beer
+    describe # calls up Hef and orders 3 hot bunnies for $2 
+  }
+}
+on *:text:*!pearlharbor*:# {
+  if (!$2) {
+    inc %beer
+    describe # sucks off $nick then jumps up and spits the load back in his face and yells Tora, Tora, Tora! 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # !
+  }
+  else {
+    inc %beer
+    describe # sucks off $2 then jumps up and spits the load back in his face and yells Tora, Tora, Tora!
+  }
+}
+on *:text:*!jackvicodaniels*:# {
+  if (!$2) {
+    inc %beer
+    describe # passes a shot of jack and a hand full of vicodin to $nick
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # whores herself for a shot of jack and some vicodin.
+  }
+  else {
+    inc %beer
+    describe # passes $2 a shot of jack and a hand full of vicodin.
+  }
+}
+on *:text:*!rape*:# {
+  if (!$2) {
+    inc %beer
+    describe # straps on a dildo and gracefully rapes $nick
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # you cant rape the willing.
+  }
+  else {
+    inc %beer
+    describe # straps on a dildo and gracefully rapes $2  
+  }
+}
+on *:text:*!mouthrape*:# {
+  if (!$2) {
+    inc %beer
+    describe # straps on a dildo and elegantly rapes $nick in the mouth.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # opens her mouth wide.
+  }
+  else {
+    inc %beer
+    describe # straps on a dildo and elegantly rapes $2 in the mouth.
+  }
+}
+on *:text:*!stfu*:# {
+  if (!$2) {
+    inc %beer
+    describe # pours a tall glass of Shut the Fuck up for $nick
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # you shut the Fuck up.
+  }
+  else {
+    inc %beer
+    describe # pours a tall glass of Shut the Fuck up for $2
+  }
+}
+on *:text:*!football*:# {
+  if (!$2) {
+    inc %beer
+    describe # passionately rapes $nick with a football.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # passionately shoves a football up her ass.
+  }
+  else {
+    inc %beer
+    describe # passionately rapes $2 with a football.
+  }
+}
+on *:text:*!wishingwell*:# {
+  if (!$2) {
+    inc %beer
+    describe # fucks $nick in the ass then pulls out and throws a quarter in $nick 's gaping asshole. Make a wish!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # bends over and spreads her ass apart!
+  }
+  else {
+    inc %beer
+    describe # fucks $2 in the ass then pulls out and throws a quarter in $2 's gaping asshole. Make a wish!  
+  }
+}
+on *:text:*!boobs*:# {
+  if (!$2) {
+    inc %beer
+    describe # lifts up her shirt, you want some milk $nick ?
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # grabs her new D-cups
+  }
+  else {
+    inc %beer
+    describe # shows her new double D's to $2
+  }
+}
+on *:text:*!stanleysteamer*:# {
+  if (!$2) {
+    inc %beer
+    describe # takes a giant shit on $nick 's chest. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # what are you waiting for shit on me!
+  }
+  else {
+    inc %beer
+    describe # takes a giant shit on $2 's chest.  
+  }
+}
+on *:text:*!fist*:# {
+  if (!$2) {
+    inc %beer
+    describe # puts on the latex gloves and proceeds to fist $nick 's ass. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # bends over and lubes up!
+  }
+  else {
+    inc %beer
+    describe # puts on the latex gloves and proceeds to fist $2 's ass.  
+  }
+}
+on *:text:*!bitchfist*:# {
+  if (!$2) {
+    inc %beer
+    describe # grabs the bitch fist and proceeds to pound $nick 's ass. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # inserts the bitch fist!
+  }
+  else {
+    inc %beer
+    describe # grabs the bitch fist and proceeds to pound $2 's ass.  
+  }
+}
+on *:text:*!onecup*:# {
+  if (!$2) {
+    inc %beer
+    describe # and her sister shit in a cup and pass it to $nick 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # shits in a cup and grabs a spoon.
+  }
+  else {
+    inc %beer
+    describe # and her sister shit in a cup and pass it to $2  
+  }
+}
+on *:text:*!blumpkin*:# {
+  if (!$2) {
+    inc %beer
+    describe # goes down on $nick while hes dropping a duece. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # goes down on her self while taking a shit.
+  }
+  else {
+    inc %beer
+    describe # goes down on $2 while hes dropping a duece. 
+  }
+}  
+on *:text:*!goldenshower*:# {
+  if (!$2) {
+    inc %beer
+    describe # takes a piss on $nick 's face. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # yeah piss in my mouth!
+  }
+  else {
+    inc %beer
+    describe # takes a piss on $2 's face.  
+  }
+}
+on *:text:*!analeel*:# {
+  if (!$2) {
+    inc %beer
+    describe # shoves a live eel up $nick 's ass. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # takes a shot of whiskey and spreads her legs.
+  }
+  else {
+    inc %beer
+    describe # shoves a live eel up $2 's ass.  
+  }
+}
+on *:text:*!surprise_buttsecks*:# {
+  if (!$2) {
+    inc %beer
+    describe # sneaks up behind $2 with a 10 inch strap on and sticks it in $2's ass. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # is really not that surprised.
+  }
+  else {
+    inc %beer
+    describe # sneaks up behind $2 with a 10 inch strap on and sticks it in $2's ass.  
+  }
+}
+on *:text:*!pearlnecklace*:# {
+  if (!$2) {
+    inc %beer
+    describe # blows $2 then lifts her chin to receive the mighty pearls. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # 
+  }
+  else {
+    inc %beer
+    describe # blows $2 then lifts her chin to receive the mighty pearls.  
+  }
+}
+on *:text:*!dp*:# {
+  if (!$2) {
+    inc %beer
+    describe # and her girlfriend strap on dildos and DP's $nick 's ass. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # takes 2 dicks in her ass, and theres room for more...
+  }
+  else {
+    inc %beer
+    describe # and her girlfriend strap on dildos and DP's $2's ass.
+  }
+} 
+on *:text:*!tier1*:# {
+  if (!$2) {
+    inc %beer
+    describe # flogs $nick 's face for mis-chan. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # bangs the tier1 group.
+  }
+  else {
+    inc %beer
+    describe # flogs $2's face for mis-chan.
+  }
+}
+on *:text:*!cam:# {
+  if (!$2) {
+    inc %beer
+    describe # Check out this shit http://wmlive.vitalstreamcdn.com/live_r0noc_vitalstream_com_nocstream 
+  }
+}
+on *:text:*!hd*:# {
+  if (!$2) {
+    inc %beer
+    describe # Check out this dipshit kevindns.com 
+  }
+}
+on *:text:*!eatshit*:# {
+  if (!$2) {
+    inc %beer
+    describe # shits in a bowl and passes $nick a spoon.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # no you.
+  }
+  else {
+    inc %beer
+    describe # shits in a bowl and passes $2 a spoon.
+  }
+} 
+on *:text:*!die*:# {
+  if (!$2) {
+    inc %beer
+    describe # stabs $nick in the eye with a fork.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # no you.
+  }
+  else {
+    inc %beer
+    describe # stabs $2 in the eye with a fork.
+  }
+}    
+on *:text:*!handjob*:# {
+  if (!$2) {
+    inc %beer
+    describe # jerks off $nick 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # strokes her strap-on.
+  }
+  else {
+    inc %beer
+    describe # jerks off $2
+  }
+}
+on *:text:*!slap*:# {
+  if (!$2) {
+    inc %beer
+    describe # slaps $nick across the face with a 9 inch girth, studded, 18 inch long dildo!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # slaps herself with a 9 inch girth, studded, 18 inch long dildo!
+  }
+  else {
+    inc %beer
+    describe # slaps $2 accross the face with a 9 inch girth, studded, 18 inch long dildo!
+  }
+}
+on *:text:*!boogerpen*:# {
+  if (!$2) {
+    inc %beer
+    describe # wipes a giant booger on $nick 's pen.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # sticks the pen up her nose.
+  }
+  else {
+    inc %beer
+    describe # wipes a giant booger on $2 's pen.
+  }
+}
+on *:text:*!unsee*:# {
+  if (!$2) {
+    inc %beer
+    describe # gouges both $nick 's eyes out with a spoon.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # once you see you cannot unsee bitch.
+  }
+  else {
+    inc %beer
+    describe # gouges both $2 's eyes out with a spoon.
+  }
+}
+on *:text:*!donkeyrape*:# {
+  if (!$2) {
+    inc %beer
+    describe # calls a donkey over to ass rape $nick
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # volunteers for the donkey show.
+  }
+  else {
+    inc %beer
+    describe # calls a donkey over to ass rape $2
+  }
+}
+on *:text:*!angrypirate*:# {
+  if (!$2) {
+    inc %beer
+    describe # cums in $nick 's eye then kicks $nick in the shin and laughs as $nick hops around on one leg with one eye closed yelling, Argghhh!!!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # Argghhh!!!
+  }
+  else {
+    inc %beer
+    describe # cums in $2's eye then kicks $2 in the shin and laughs as $2 hops around on one leg with one eye closed yelling, Argghhh!!!
+  }
+}
+on *:text:*!kevind*:# {
+  if (!$2) {
+    inc %beer
+    describe # throat punches kevind to get him to stfu!
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # kills herself.
+  }
+  else {
+    inc %beer
+    describe # throat punches kevind to get him to stfu!
+  }
+}
+on *:text:*!dock*:# {
+  if (!$2) {
+    inc %beer
+    describe #  http://i.imgur.com/Rqy61.jpg
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # cannot do this http://i.imgur.com/Rqy61.jpg
+  }
+  else {
+    inc %beer
+    describe # http://i.imgur.com/Rqy61.jpg
+  }
+}
+on *:text:*!no u*:# {
+  if (!$2) {
+    inc %beer
+    describe # u
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # no u
+  }
+  else {
+    inc %beer
+    describe # no u
+  }
+}
+on *:text:*!romanshower*:# {
+  if (!$2) {
+    inc %beer
+    describe # throws up in $nick 's mouth.
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # vomits on herself.
+  }
+  else {
+    inc %beer
+    describe # throws up on $2
+  }
+}
+on *:text:*!suckit*:# {
+  if (!$2) {
+    inc %beer
+    describe # whips out her strap-on and forces $2 to suck it. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # sucks it.
+  }
+  else {
+    inc %beer
+    describe # whips out her strap-on and forces $2 to suck it.  
+  }
+}
+on *:text:*!train*:# {
+  if (!$2) {
+    inc %beer
+    describe # and the bullshit channel line up at the train station on $2 's ass. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # bows to the conductor.
+  }
+  else {
+    inc %beer
+    describe # and the bullshit channel line up at the train station on $2 's ass  
+  }
+}
+on *:text:*!buttchug*:# {
+  if (!$2) {
+    inc %beer
+    describe # soaks a tampon in grape flavored MD 20/20 then shoves it up $nick 's ass. 
+  }
+  elseif ( $2 = $me ) {
+    inc %beer
+    describe # shoves a grape flavored MD 20/20 tampon up her ass.
+  }
+  else {
+    inc %beer
+    describe # soaks a tampon in grape flavored MD 20/20 then shoves it up $2 's ass.  
+  }
+}
+on *:TEXT:!fuckyou*:#:{  
+  msg $chan 1,1.....................8/´¯/)
+  msg $chan 1,1....................8/¯  /
+  msg $chan 1,1...................8/   /
+  msg $chan 1,1............8/´¯/'  }/´¯¯`·¸
+  msg $chan 1,1.........8/'/   )   /      /¨¯\
+  msg $chan 1,1........8('(   ´   ´     ¯~/'  )
+  msg $chan 1,1..........8\                \   \
+  msg $chan 1,1............8\'   \          )_.´
+  msg $chan 1,1..............8\              (
+  msg $chan 1,1...............8\             \   
+}
+on *:TEXT:!Fupa*:#:{
+  /set %Fupa $rand(1,10) 
+  if (%Fupa == 1) .msg $chan 10No! 
+  if (%Fupa == 2) .msg $chan 10Yes 
+  if (%Fupa == 3) .msg $chan 10Maybe 
+  if (%Fupa == 4) /msg $chan 10Go fuck yourself
+  if (%Fupa == 5) .msg $chan 10of course 
+  if (%Fupa == 6) .msg $chan 10Are you crazy?!?! 
+  if (%Fupa == 7) /msg $chan 10How should I know? 
+  if (%Fupa == 8) /msg $chan 10That's a ghey question
+  if (%Fupa == 9) /msg $chan 10Bacon
+  if (%Fupa == 10) /msg $chan 10That's what she said 
+}
+on *:TEXT:!joke:#:{
+  /set %Joke $rand(1,91)
+  if (%Joke == 1) { msg $chan 2[W]15hat do you see when you look into a blonde's eyes? 
+    timer 1 6 msg $chan  2[T]15he back of her head. 
+  }
+  if (%Joke == 2) { msg $chan 2[W]15hat do you call it when a blonde dies their hair brunette? 
+    timer 1 6 msg $chan  Artificial intelligence. 
+  }
+  if (%Joke == 3) { msg $chan   2[W]15hat do you do when a blonde throws a hand grenade at you? 
+    timer 1 6 msg $chan 2[P]15ull the pin and throw it back. 
+  }
+  if (%Joke == 4) { msg $chan 2[W]15hat does a blond and a beer bottle have in common? 
+    timer 1 6 msg $chan 2[T]15hey're both empty from the neck up. 
+  }
+  if (%Joke == 5) { msg $chan 2[W]15hat does a blonde owl say? 
+    timer 1 6 msg $chan 2[W]15hat, what? 
+  }
+  if (%Joke == 6) { msg $chan  2[W]15hat's the Blonde's cheer? 
+    timer 1 6 msg $chan 2[I]15'm blonde, I'm blonde, I'm B.L.O.N....ah, oh well.. I'm blonde, I'm blonde, yea yea yea..."
+  }
+  if (%Joke == 7) { msg $chan 2[W]15hy did the blonde scale the chain-link fence? 
+    timer 1 6 msg $chan  2[T]15o see what was on the other side.
+  }
+  if (%Joke == 8) { msg $chan 2[W]15hy did the blonde have tire tread marks on her back? 
+    timer 1 6 msg $chan  2[F]15rom crawling across the street when the sign said "don't walk".
+  }
+  if (%Joke == 9) { msg $chan 2[W]15hy did the blonde tip-toe past the medicine cabinet? 
+    timer 1 6 msg $chan 2[S]15o she wouldn't wake up the sleeping pills.
+  }
+  if (%Joke == 10) { msg $chan 2[W]15hy did the blonde try and steal a police car? 
+    timer 1 6 msg $chan 2[S]15he saw "911" on the back and thought it was a Porsche.
+  }
+  if (%Joke == 11) { msg $chan   2[W]15hy did the blonde stare at the can of frozen orange juice for two hours? 
+    timer 1 6 msg $chan 2[B]15ecause the can said "concentrate" on it. 
+  }
+  if (%Joke == 12) { msg $chan  2[H]15ow do you make a blonde laugh on Saturday? 
+    timer 1 6 msg $chan 2[T]15ell her a joke on Wednesday. 
+  }
+  if (%Joke == 13) { msg $chan 2[W]15hat is the blonde doing when she holds her hands tightly over her ears? 
+    timer 1 6 msg $chan  2[T]15rying to hold on to a thought.
+  }
+  if (%Joke == 14) { msg $chan 2[W]15hy don't blondes have elevator jobs? 
+    timer 1 6 msg $chan 2[T]15hey don't know the route. 
+  }
+  if (%Joke == 15) { msg $chan  2[W]15hy do blondes work seven days a week? 
+    timer 1 6 msg $chan 2[S]15o you don't have to retrain them on Monday.
+  }
+  if (%Joke == 16) { msg $chan  2[H]15ow does a blonde commit suicide? 
+    timer 1 6 msg $chan 2[S]15he gathers her clothes into a pile and jumps off. 
+  }
+  if (%Joke == 17) { msg $chan   2[H]15ow do you plant dope? 
+    timer 1 6 msg $chan 2[B]15ury a blonde. 
+  }
+  if (%Joke == 18) { msg $chan 2[H]15ow do you get a one-armed blonde out of a tree? 
+    timer 1 6 msg $chan 2[W]15ave to her. 
+  }
+  if (%Joke == 19) { msg $chan 2[H]15ow do you make a blonde's eyes light up? 
+    timer 1 6 msg $chan 2[S]15hine a flashlight in their ear.
+  }
+  if (%Joke == 20) { msg $chan 2[H]15ow do blonde braincells die? 
+    timer 1 6 msg $chan 2 [A]15lone
+  }
+  if (%Joke == 21) { msg $chan 2[H]15ow do you brainwash a blonde? 
+    timer 1 6 msg $chan 2  [G]15ive her a douche and shake her upside down. 
+  }
+  if (%Joke == 22) { msg $chan 2 [H]15ow do you drown a blond? 
+    timer 1 6 msg $chan 2 [L]15eave a scratch and sniff at the bottom of the pool.
+  }
+  if (%Joke == 23) { msg $chan 2  [H]15ow do you describe a blonde, surrounded by drooling idiots? 
+    timer 1 6 msg $chan 2[F]15lattered. 
+  }
+  if (%Joke == 24) { msg $chan 2   [H]15ow do you confuse a blonde? 
+    timer 1 6 msg $chan 2[Y]15ou don't. They're born that way.
+  }
+  if (%Joke == 25) { msg $chan 2[W]15hy couldn't the blonde write the number eleven? 
+    timer 1 6 msg $chan 2[S]15he didn't know what number came first.
+  }
+  if (%Joke == 26) { msg $chan 2 [W]15hat do you call a blonde with 90% of her intelligence gone? 
+    timer 1 6 msg $chan 2[D]15ivorced.  How did the blonde try to kill the bird? 
+  }
+  if (%Joke == 27) { msg $chan 2[H]15ow did the blonde try to kill the bird? 
+    timer 1 6 msg $chan 2[S]15he threw it off a cliff. 
+  }
+  if (%Joke == 28) { msg $chan 2  [H]15ow did the blonde break her leg raking leaves? 
+    timer 1 6 msg $chan 2  [S]15he fell out of the tree.
+  }
+  if (%Joke == 29) { msg $chan 2[W]15hy can't the blonde make ice cubes? 
+    timer 1 6 msg $chan 2[S]15he lost the recipe. 
+  }
+  if (%Joke == 30) { msg $chan 2[H]15ow do you hit a blonde so she will never know it? 
+    timer 1 6 msg $chan 2[W]15ith a thought. 
+  }
+  if (%Joke == 31) { msg $chan 2[W]15hy did the blonde put her finger over the nail when she was hammering? 
+    timer 1 6 msg $chan 2[T]15he noise gave her a headache.
+  }
+  if (%Joke == 32) { msg $chan 2 [H]15ow does a blond know if she's on her way home or on her way to work? 
+    timer 1 6 msg $chan 2[S]15he opens her lunch box to see if there is anything in it.
+  }
+  if (%Joke == 33) { msg $chan 2[W]15hat is a cool refreshing drink for a blonde? 
+    timer 1 6 msg $chan 2[P]15erri-air. 
+  }
+  if (%Joke == 34) { msg $chan 2 [D]15id you hear about the blonde coyote? 
+    timer 1 6 msg $chan 2[G]15ot stuck in a trap, chewed off three legs and was still stuck.
+  }
+  if (%Joke == 35) { msg $chan 2  [W]15hen is it legal to shoot a blonde in the head? 
+    timer 1 6 msg $chan 2[W]15hen you have a tire pump to reinflate it! 
+  }
+  if (%Joke == 36) { msg $chan 2  [D]15id you here about the blonde who shot an arrow into the air? 
+    timer 1 6 msg $chan 2[S]15he missed. 
+  }
+  if (%Joke == 37) { msg $chan 2[W]15hat is it called when a blonde blows in another blond's ear? 
+    timer 1 6 msg $chan 2  [D]15ata transfer.
+  }
+  if (%Joke == 38) { msg $chan 2 [H]15ow do you sink a submarine full of blondes?
+    timer 1 6 msg $chan 2 [K]15nock on the door. 
+  }
+  if (%Joke == 39) { msg $chan 2[W]15hat is the difference between a sin and shame? 
+    timer 1 6 msg $chan 2[I]15t's a sin to stick it in and a shame to take it out.
+  }
+  if (%Joke == 40) { msg $chan 2[W]15hy don't they have any toilet paper in KFC? 
+    timer 1 6 msg $chan 2[B]15ecause its finger licking good! 
+  }
+  if (%Joke == 41) { msg $chan 2[W]15hat do a gynocologist and a pizza boy have in common? 
+    timer 1 6 msg $chan 2[T]15hey can smell it but they cant eat it! 
+  }
+  if (%Joke == 42) { msg $chan 2[W]15hat does a dwarf get if he runs through a womans legs ???...... 
+    timer 1 6 msg $chan 2[A]15 clit around the ear and a flap across the face
+  }
+  if (%Joke == 43) { msg $chan 2[W]15hat do you do when your wife's staggering? 
+    timer 1 6 msg $chan 2[S]15hoot her again. 
+  }
+  if (%Joke == 44) { msg $chan 2: []15What is the difference between and Virgin and a washing machine? 
+    timer 1 6 msg $chan 2[T]15he washing machine doesn't follow you around for two weeks after you dump a load in it!
+  }
+  if (%Joke == 45) { msg $chan 2[W]15hen do you kick a midget in the balls? 
+    timer 1 6 msg $chan 2[W]15hen he is standing next to your girlfriend saying her hair smells nice. 
+  }
+  if (%Joke == 46) { msg $chan 2[W]15hat's the last thing that goes through a fly's mind when it hits a windscreen? 
+    timer 1 6 msg $chan 2[I]15t's arse!
+  }
+  if (%Joke == 47) { msg $chan 2[W]15hat does a guy and a car have in common? 
+    timer 1 6 msg $chan 2[T]15hey both have the ability to misfire.
+  }
+  if (%Joke == 48) { msg $chan 2[W]15hy do men get their great ideas in bed? 
+    timer 1 6 msg $chan 2[B]15ecause their plugged into a genius!
+  }
+  if (%Joke == 49) { msg $chan 2[W]15hat did one saggy tit say to the other saggy tit? 
+    timer 1 6 msg $chan 2[I]15f we don't get some support soon, people will think we're nuts!
+  }
+  if (%Joke == 50) { msg $chan 2 [H]15ow can you tell when a women is having a bad day? 
+    timer 1 6 msg $chan 2[S]15he has her tampon behind her ear,and she can`t find her cigarette. 
+  }
+  if (%Joke == 51) { msg $chan 2[W]15hy dont blind men skydive?
+    timer 1 6 msg $chan 2[B]15ecause it scares the shit out of the dog 
+  }
+  if (%Joke == 52) { msg $chan 2[W]15hat do you call a gay dinosaur? 
+    timer 1 6 msg $chan 2 [M]15ega-saur-ass 
+  }
+  if (%Joke == 53) { msg $chan 2 [W]15hats the difference between a wife and a girlfriend ? 
+    timer 1 6 msg $chan 2 [3]15 Stone !
+  }
+  if (%Joke == 54) { msg $chan 2[W]15hat do Viagra And Disney Land have in common?
+    timer 1 6 msg $chan 2[T]15hey both cause you to stand around for an hour waiting for a two minute ride!!
+  }
+  if (%Joke == 55) { msg $chan 2[W]15hat's the difference between government bonds and men?
+    timer 1 6 msg $chan 2[B]15onds mature.
+  }
+  if (%Joke == 56) { msg $chan 2[W]15hat do Tupperware and a walrus have in common?
+    timer 1 6 msg $chan 2[T]15hey both like a tight seal.
+  }
+  if (%Joke == 57) { msg $chan 2[W]15hat has three teeth and sixty feet?
+    timer 1 6 msg $chan 2[T]15he front row at a Willy Nelson concert.
+  }
+  if (%Joke == 58) { msg $chan 2[W]15hat is the new O.J. web site address?
+    timer 1 6 msg $chan 2[s]15lash.slash.backslash.escape
+  }
+  if (%Joke == 58) { msg $chan 2[W]15hat did the lesbian frog say to the other lesbian frog?
+    timer 1 6 msg $chan 2[T]15hey're right! We do taste like chicken!
+  }
+  if (%Joke == 59) { msg $chan 2[W]15hat did the banana say to the vibrator?
+    timer 1 6 msg $chan 2[W]15hat are YOU shaking for? She's going to eat me!
+  }
+  if (%Joke == 60) { msg $chan 2[W]15hat is the difference between erotic and kinky?
+    timer 1 6 msg $chan 2[E]15rotic is using a feather....kinky is using the whole chicken.
+  }
+  if (%Joke == 61) { msg $chan 2[H]15ow many men does it take to screw in a light bulb?
+    timer 1 6 msg $chan 2[O]15ne..Men will screw anything
+  }
+  if (%Joke == 62) { msg $chan 2[W]15hat is the difference between Michael Jackson and a grocery bag?
+    timer 1 6 msg $chan 2[O]15ne is made of plastic and is dangerous for children to play with ... the other is used to carry groceries.
+  }
+  if (%Joke == 63) { msg $chan 2[H]15ow can you tell if you're at a bulimic bachelor party?
+    timer 1 6 msg $chan 2[T]15he cake jumps out of the girl.
+  }
+  if (%Joke == 64) { msg $chan 2[W]15hat do a clitoris, an anniversary, and a toilet have in common?
+    timer 1 6 msg $chan 2[M]15en always miss them.
+  }
+  if (%Joke == 65) { msg $chan 2 [W]15hy do so many women fake orgasm?
+    timer 1 6 msg $chan 2[B]15ecause so many men fake foreplay.
+  }
+  if (%Joke == 66) { msg $chan 2[W]15hat's the difference between Bill Clinton and the Titanic?
+    timer 1 6 msg $chan 2[O]15nly 1500 went down on the Titanic.
+  }
+  if (%Joke == 67) { msg $chan 2[W]15hat's the new game they're playing in the White House?
+    timer 1 6 msg $chan 2[S]15wallow the Leader.
+  }
+  if (%Joke == 68) { msg $chan 2[H]15
+    timer 1 6 msg $chan 2[T]15he sex is the same but the dishes pile up.
+  }
+  if (%Joke == 69) { msg $chan 2[W]15hy doesn't Mexico have an Olympic team?
+    timer 1 6 msg $chan 2[B]15ecause everybody who can run, jump, and swim are already in AmericA:
+  }
+  if (%Joke == 71) { msg $chan 2[H]15ow are twisters (tornadoes) and marriage alike?
+    timer 1 6 msg $chan 2[T]15hey both begin with a lot of blowing and sucking, and in the end you lose your house.
+  }
+  if (%Joke == 72) { msg $chan 2[W]15hat's the difference between a blimp and 365 blow jobs?
+    timer 1 6 msg $chan 2[O]15nes a Goodyear. The other is a great year.
+  }
+  if (%Joke == 73) { msg $chan 2[W]15hat's the difference between a golf ball and a woman's G-spot?
+    timer 1 6 msg $chan 2[A]15 man will spend 20 minutes looking for the golf ball.
+  }
+  if (%Joke == 74) { msg $chan 2[W]15hat's the difference between a whorehouse and a circus?
+    timer 1 6 msg $chan 2[O]15ne is a cunning array of stunts......
+  }
+  if (%Joke == 75) { msg $chan 2[H]15ow do you suprise Helen Keller?
+    timer 1 6 msg $chan 2[L]15eave the plunger in the toilet.
+  }
+  if (%Joke == 76) { msg $chan 2[W]15hy can't Frankenstein have children?
+    timer 1 6 msg $chan 2[B]15ecause his nuts are on his neck.
+  }
+  if (%Joke == 77) { msg $chan 2[W]15hat's the difference between a bitch and a whore?
+    timer 1 6 msg $chan 2[A]15 whore sleeps with everybody at the party, and a bitch sleeps with everybody at the party except you.
+  }
+  if (%Joke == 78) { msg $chan 2[W]15ho is the most popular guy at the nudist colony?
+    timer 1 6 msg $chan 2[T]14he guy who can carry a cup of coffee in each hand and a dozen donuts.
+  }
+  if (%Joke == 79) { msg $chan 2[W]15ho is the most popular girl at the nudist colony?
+    timer 1 6 msg $chan 2[S]15he is the one who can eat the last donut!
+  }
+  if (%Joke == 80) { msg $chan 2[W]15hat has 6 legs and turns in a paddock?
+    timer 1 6 msg $chan 2[A]15 ram doing a ewey
+  }
+  if (%Joke == 81) { msg $chan 2[W]15hy did God create man?
+    timer 1 6 msg $chan 2[B]15ecause you can't cut the grass with a vibrator.
+  }
+  if (%Joke == 82) { msg $chan 2[T]15here are 2 cowboys in the kitchen. Which one is the real cowboy? 
+    timer 1 6 msg $chan 2[T]15he one on the range.
+  }
+  if (%Joke == 83) { msg $chan 2[W]15hat do you call an afghan virgin 
+    timer 1 6 msg $chan 2[H]15e forgot to wrap his whopper. 
+  }
+  if (%Joke == 84) { msg $chan 2[W]15hy does a squirrle swim on its back? 
+    timer 1 6 msg $chan 2[T]15o keep its nuts dry 
+  }
+  if (%Joke == 85) { msg $chan 2[W]15hat do you call a lesbian dinosaur 
+    timer 1 6 msg $chan 2[A]15 lickalotopis 
+  }
+  if (%Joke == 86) { msg $chan 2[W]15hat happened to the chinese man who walked into a wall with a boner?
+    timer 1 6 msg $chan 2[H]15e smashed his nose. 
+  }
+  if (%Joke == 87) { msg $chan 2[W]15hy was the washing machine laughing? 
+    timer 1 6 msg $chan 2 [B]15ecause it was taking the piss out the underpants. 
+  }
+  if (%Joke == 88) { msg $chan 2[W]15hat do you do with a years worth of used condoms? 
+    timer 1 6 msg $chan 2[M]15elt them, turn them into tire and call it a goodyear. 
+  }
+  if (%Joke == 89) { msg $chan 2[W]15hat's the difference between a penis and a bonus? 
+    timer 1 6 msg $chan 2[Y]15our wife will always blow your bonus! 
+  }
+  if (%Joke == 90) { msg $chan 2[W]15hat do you call a sheep with no legs? 
+    timer 1 6 msg $chan 2[A]15 Cloud
+  }
+  if (%Joke == 91) { msg $chan 2[W]15hat is the definition of the perfect husband? 
+    timer 1 6 msg $chan 2[A]15 guy with a seven inch tongue that can breath through his ears.....
+  }
+}
+/*
+
+!w or !weather [zipcode|city,state|city,country|airport] will return current conditions.
+
+!forecast [zipcode|city,state|city,country|airport] will give detailed 3 day forecast (for us)
+
+!forecast5 [zipcode|city,state|city,country|airport] will send 5 day forecast to $nick that requested. (to prevent chan flooding)
+
+!alerts [zipcode|city,state|city,country|airport] will tell you if there are any weather alerts in your area.
+
+!alertinfo [zipcode|city,state|city,country|airport] will send $nick the detailed report of alerts in said area
+
+!time [zipcode|city,state|city,country|airport] will return current time.
+
+
+
+Notes from wunderground:
+
+We don't support old style abbreviations like Conn. for Connecticut, use CT
+
+If you are searching for an international city, try the name of the country or province
+
+Don't use provinces for non-us cities (ie: Vancouver, BC)
+
+Zipcodes only work in Canada, UK and the US
+
+*/
+
+
+
+
+
+on $*:text:/^[!](w|weather|forecast|forecast5|alert|alerts|alertinfo|alertsinfo|time)/Si:#: {
+
+  unset %wu_*
+
+  if ($2 == $null) { .notice $nick Please specify a location $1 [zipcode|city,state|city,country|airport] | halt }
+
+  set %wu_command $1
+
+  set %wu_address $replace($2-,$chr(32),$chr(43)) 
+
+  set %wu_nick $nick
+
+  set %wu_network $network
+
+  set %wu_chan $chan
+
+
+
+  if (%wu_command == !weather) || (%wu_command == !w) || (%wu_command == !time) { 
+
+    set %wu_link $+(/auto/wui/geo/WXCurrentObXML/index.xml?query=,%wu_address)
+
+    set %wu_host api.wunderground.com
+
+    sockopen wunderground %wu_host 80
+
+  }
+
+  if (%wu_command == !forecast) || (%wu_command == !forecast5) { 
+
+    set %wu_link $+(/auto/wui/geo/ForecastXML/index.xml?query=,%wu_address)
+
+    set %wu_host www.wunderground.com
+
+    sockopen wunderground %wu_host 80
+
+
+
+  }
+
+  if (%wu_command == !alert) set %wu_command !alerts
+
+  if (%wu_command == !alertsinfo) set %wu_command !alertinfo
+
+  if (%wu_command == !alerts) || (%wu_command == !alertinfo) { 
+
+    ;echo -s pass
+
+    set %wu_link $+(/auto/wui/geo/AlertsXML/index.xml?query=,%wu_address)
+
+    set %wu_host www.wunderground.com
+
+    sockopen wunderground %wu_host 80
+
+  }
+
+
+
+  ;echo -s LINK: %wu_link
+
+}
+
+
+
+
+
+on *:sockopen:wunderground: {
+
+
+
+  ;sockwrite -n $sockname GET %wu_link XML/1.0
+
+  sockwrite -n $sockname GET %wu_link
+
+  sockwrite -n $sockname Host: %wu_host
+
+  sockwrite -n $sockname $crlf
+
+}
+
+
+
+on *:sockread:wunderground: {
+
+  sockread %wu_temp
+
+  ;echo -s %wu_temp
+
+
+
+  if (%wu_command == !weather) || (%wu_command == !w) || (%wu_command == !time) { 
+
+    ; local info
+
+    if ( isin %wu_temp) && (%wu_full == $null) %wu_full = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) && (%wu_city == $null) %wu_city = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) && (%wu_state == $null) %wu_state = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) && (%wu_state_name == $null) %wu_state_name = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) && (%wu_country == $null)  %wu_country = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) && (%wu_country_iso3166 == $null) %wu_country_iso3166 = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) && (%wu_zip == $null)  %wu_zip = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) && (%wu_latitude == $null) %wu_latitude = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) && (%wu_longitude == $null) %wu_longitude = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) && (%wu_elevation == $null) %wu_elevation = $remove(%wu_temp,,,$chr(9)) 
+
+
+
+    if ( isin %wu_temp) %wu_local_time = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) %wu_local_time_rfc822 = $remove(%wu_temp,,,$chr(9)) 
+
+
+
+    ; current weather
+
+    if ( isin %wu_temp) %wu_weather = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) %wu_temperature_string = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) %wu_temp_f = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_temp_c = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) %wu_relative_humidity = $remove(%wu_temp,,,$chr(9)) 
+
+
+
+    ; wind
+
+    if ( isin %wu_temp) %wu_wind_string = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) %wu_wind_dir = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) %wu_wind_degrees = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) %wu_wind_mph = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) %wu_wind_gust_mph = $remove(%wu_temp,,,$chr(9)) 
+
+
+
+    if ( isin %wu_temp) %wu_pressure_string = $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) %wu_pressure_mb = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_pressure_in = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_dewpoint_string = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_dewpoint_f = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_dewpoint_c = $remove(%wu_temp,,,$chr(9))
+
+
+
+    if ( isin %wu_temp) %wu_heat_index_string = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_heat_index_f = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_heat_index_c = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_windchill_string = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_windchill_f = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_windchill_c = $remove(%wu_temp,,,$chr(9))
+
+
+
+    if ( isin %wu_temp) %wu_visibility_mi = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) %wu_visibility_km = $remove(%wu_temp,,,$chr(9))
+
+  }
+
+
+
+  if (%wu_command == !forecast) || (%wu_command == !forecast5) {
+
+    if ( isin %wu_temp) set %wu_period $remove(%wu_temp,,,$chr(9),$chr(32))
+
+    if ( isin %wu_temp) set %wu_xtemp 1
+
+    if ( isin %wu_temp) set %wu_xtemp 2
+
+    if ( isin %wu_temp) set %wu_simpleforecast 1
+
+
+
+    if ( isin %wu_temp) && (%wu_period == 1) %wu_f1_title = $remove(%wu_temp,,,$chr(9),$chr(32))
+
+    if ( isin %wu_temp) && (%wu_period == 1) %wu_f1_fcttext = $remove(%wu_temp,,,$chr(9))
+
+    if ( isin %wu_temp) && (%wu_period == 2) %wu_f2_title = $remove(%wu_temp,,,$chr(9),$chr(32))
+
+    if ( isin %wu_temp) && (%wu_period == 2) %wu_f2_fcttext = $remove(%wu_temp,,,$chr(9))
+
+
+
+    if (%wu_simpleforecast == 1) {
+
+      if ( isin %wu_temp) set $+(%,wu_P,%wu_period,_weekday) $remove(%wu_temp,,,$chr(9),$chr(32))
+
+      if ( isin %wu_temp) set $+(%,wu_P,%wu_period,_conditions) $remove(%wu_temp,,,$chr(9))
+
+      if (%wu_xtemp == 1) {
+
+        if ( isin %wu_temp) set $+(%,wu_P,%wu_period,_highf) $remove(%wu_temp,,,$chr(9),$chr(32))
+
+        if ( isin %wu_temp) set $+(%,wu_P,%wu_period,_highc) $remove(%wu_temp,,,$chr(9),$chr(32))
+
+      }
+
+      if (%wu_xtemp == 2) {
+
+        if ( isin %wu_temp) set $+(%,wu_P,%wu_period,_lowf) $remove(%wu_temp,,,$chr(9),$chr(32))
+
+        if ( isin %wu_temp) set $+(%,wu_P,%wu_period,_lowc) $remove(%wu_temp,,,$chr(9),$chr(32))
+
+      }
+
+    }
+
+  }
+
+  if (%wu_command == !alerts) || (%wu_command == !alertinfo) { 
+
+    ;echo -s %wu_temp
+
+    set -n %wu_ac <alert count="
+
+    if (%wu_ac isin %wu_temp) set -n %wu_a_count $remove(%wu_temp,,,$chr(32),$chr(9))
+
+    if ( isin %wu_temp) inc %wu_a_i
+
+    if ( isin %wu_temp) set $+(%,wu_a,%wu_a_i,_type) $remove(%wu_temp,,,$chr(9)) 
+
+    if ( isin %wu_temp) set $+(%,wu_a,%wu_a_i,_description) $remove(%wu_temp,,,$chr(9))
+
+    if (<date epoch isin %wu_temp) set $+(%,wu_a,%wu_a_i,_date) $right($remove(%wu_temp,,,$chr(9)),-12)
+
+    if (<expires epoch isin %wu_temp) set $+(%,wu_a,%wu_a_i,_expires) $right($remove(%wu_temp,,,$chr(9)),-10)
+
+    if ( isin %wu_temp) { set %wu_msg OFF | set $+(%,wu_a,%wu_a_i,_count) $(%wu_msg_c,2) | set %wu_msg_c 0 }
+
+    if (%wu_msg == ON) {
+
+      inc %wu_msg_gc
+
+      inc %wu_msg_c 
+
+      set $+(%,wu_a,%wu_a_i,_message,%wu_msg_c) %wu_temp
+
+    }
+
+    if ( isin %wu_temp) { set %wu_msg ON }
+
+  }
+
+}
+
+
+
+
+
+
+
+on *:sockclose:wunderground: {
+
+  var %wu_space = $+($chr(45),$chr(124),$chr(45))
+
+  var %wu_spaceend = $+($chr(45),$chr(124))
+
+
+
+  if (%wu_command == !weather) || (%wu_command == !w) { 
+
+    set %wu_present $remove(%wu_full,$chr(9),$chr(32),$chr(44))
+
+    if (%wu_present == $null) msg %wu_chan Location not found
+
+    if (%wu_present != $null) msg %wu_chan %wu_full $+ : %wu_weather and $+(%wu_temp_f,$chr(176),F,$chr(40),%wu_temp_c,$chr(176),C,$chr(41))
+
+  }
+
+  if (%wu_command == !time) {
+
+    msg %wu_chan %wu_full $+ : %wu_local_time
+
+  }
+
+  if (%wu_command == !forecast) || (%wu_command == !forecast5) {
+
+    if (%wu_f1_title != $null) { 
+
+      var %wu_forecast1 $(%wu_f1_title $+ : %wu_f1_fcttext)
+
+      var %wu_forecast2 $(%wu_f2_title $+ : %wu_f2_fcttext)
+
+      if (%wu_f2_title != %wu_P2_weekday ) var %wu_forecast3 $(%wu_P2_weekday $+ : %wu_P2_conditions $+ . High: $+(%wu_P2_highf,$chr(176),F) $chr(47) $+(%wu_P2_highc,$chr(176),C) Low: $+(%wu_P2_lowf,$chr(176),F) $chr(47) $+(%wu_P2_lowc,$chr(176),C)) 
+
+      if (%wu_f2_title == %wu_P2_weekday ) var %wu_forecast3 $(%wu_P3_weekday $+ : %wu_P3_conditions $+ . High: $+(%wu_P3_highf,$chr(176),F) $chr(47) $+(%wu_P3_highc,$chr(176),C) Low: $+(%wu_P3_lowf,$chr(176),F) $chr(47) $+(%wu_P3_lowc,$chr(176),C))
+
+      .timer 1 0 msg %wu_chan %wu_address $+ : %wu_forecast1
+
+      .timer 1 1 msg %wu_chan %wu_forecast2 %wu_space %wu_forecast3 %wu_spaceend 
+
+    }
+
+    if (%wu_f1_title == $null) {
+
+      var %wu_forecast1 $(%wu_P1_weekday $+ : %wu_P1_conditions $+ . High: $+(%wu_P1_highf,$chr(176),F,$chr(40),%wu_P1_highc,$chr(176),C,$chr(41)) Low: $+(%wu_P1_lowf,$chr(176),F,$chr(40),%wu_P1_lowc,$chr(176),C,$chr(41)))
+
+      var %wu_forecast2 $(%wu_P2_weekday $+ : %wu_P2_conditions $+ . High: $+(%wu_P2_highf,$chr(176),F,$chr(40),%wu_P2_highc,$chr(176),C,$chr(41)) Low: $+(%wu_P2_lowf,$chr(176),F,$chr(40),%wu_P2_lowc,$chr(176),C,$chr(41)))
+
+      var %wu_forecast3 $(%wu_P3_weekday $+ : %wu_P3_conditions $+ . High: $+(%wu_P3_highf,$chr(176),F,$chr(40),%wu_P3_highc,$chr(176),C,$chr(41)) Low: $+(%wu_P3_lowf,$chr(176),F,$chr(40),%wu_P3_lowc,$chr(176),C,$chr(41)))
+
+      .timer 1 0 msg %wu_chan %wu_address $+ : %wu_forecast1  
+
+      .timer 1 1 msg %wu_chan %wu_forecast2 %wu_space %wu_forecast3
+
+    }
+
+  }
+
+
+
+  if (%wu_command == !forecast5) {
+
+    ;.timer 1 0 .msg %wu_chan %wu_P1_weekday $+ : %wu_P1_conditions $+ . High: $+(%wu_P1_highf,$chr(176),F,$chr(40),%wu_P1_highc,$chr(176),C,$chr(41)) - Low: $+(%wu_P1_lowf,$chr(176),F,$chr(40),%wu_P1_lowc,$chr(176),C,$chr(41))
+
+    .timer 1 1 .msg %wu_nick Your forcast for %wu_address
+
+    .timer 1 2 .msg %wu_nick %wu_P1_weekday $+ : %wu_P1_conditions $+ . High: $+(%wu_P1_highf,$chr(176),F,$chr(40),%wu_P1_highc,$chr(176),C,$chr(41)) - Low: $+(%wu_P1_lowf,$chr(176),F,$chr(40),%wu_P1_lowc,$chr(176),C,$chr(41))
+
+    .timer 1 3 .msg %wu_nick %wu_P2_weekday $+ : %wu_P2_conditions $+ . High: $+(%wu_P2_highf,$chr(176),F,$chr(40),%wu_P2_highc,$chr(176),C,$chr(41)) - Low: $+(%wu_P2_lowf,$chr(176),F,$chr(40),%wu_P2_lowc,$chr(176),C,$chr(41))
+
+    .timer 1 4 .msg %wu_nick %wu_P3_weekday $+ : %wu_P3_conditions $+ . High: $+(%wu_P3_highf,$chr(176),F,$chr(40),%wu_P3_highc,$chr(176),C,$chr(41)) - Low: $+(%wu_P3_lowf,$chr(176),F,$chr(40),%wu_P3_lowc,$chr(176),C,$chr(41))
+
+    .timer 1 5 .msg %wu_nick %wu_P4_weekday $+ : %wu_P4_conditions $+ . High: $+(%wu_P4_highf,$chr(176),F,$chr(40),%wu_P4_highc,$chr(176),C,$chr(41)) - Low: $+(%wu_P4_lowf,$chr(176),F,$chr(40),%wu_P4_lowc,$chr(176),C,$chr(41))
+
+    .timer 1 6 .msg %wu_nick %wu_P5_weekday $+ : %wu_P5_conditions $+ . High: $+(%wu_P5_highf,$chr(176),F,$chr(40),%wu_P5_highc,$chr(176),C,$chr(41)) - Low: $+(%wu_P5_lowf,$chr(176),F,$chr(40),%wu_P5_lowc,$chr(176),C,$chr(41))
+
+    .timer 1 7 .msg %wu_nick %wu_P6_weekday $+ : %wu_P6_conditions $+ . High: $+(%wu_P6_highf,$chr(176),F,$chr(40),%wu_P6_highc,$chr(176),C,$chr(41)) - Low: $+(%wu_P6_lowf,$chr(176),F,$chr(40),%wu_P6_lowc,$chr(176),C,$chr(41))
+
+  }
+
+
+
+  if (%wu_command == !alerts) {
+
+    if (%wu_a_count == 0) msg %wu_chan %wu_address $+ : No Alerts
+
+    if (%wu_a_count > 0) {
+
+      msg %wu_chan %wu_address $+ : %wu_a_count Alerts
+
+      var %i 1
+
+      while (%i <= %wu_a_count) {
+
+        .timer 1 %i msg %wu_chan %wu_a_start $($+(%,wu_a,%i,_description),2) till $($+(%,wu_a,%i,_expires),2) %wu_a_end
+
+        inc %i
+
+      }
+
+      .timer 1 %i .notice %wu_nick use $chr(2) !alertinfo $chr(2) [zipcode|city,state|city,country|airport] for alert details
+
+    }
+
+  }
+
+  if (%wu_command == !alertinfo) {
+
+    if (%wu_a_count == 0) msg %wu_chan %wu_address $+ : No Alerts
+
+    if (%wu_a_count > 0) {
+
+      msg %wu_chan %wu_address $+ : %wu_a_count Alerts - See PM for details
+
+      .msg %wu_nick %wu_address $+ : %wu_a_count Alerts
+
+      var %i 1 , %i_gc 1
+
+      while (%i <= %wu_a_count) {
+
+        .timer 1 %i_gc .msg %wu_nick $chr(2) $($+(%,wu_a,%i,_description),2) $chr(2) from $($+(%,wu_a,%i,_date),2) till $($+(%,wu_a,%i,_expires),2)
+
+        var %i_msg 1
+
+        while (%i_msg <= $($+(%,wu_a,%i,_count),2)) {
+
+          .timer 1 %i_gc .msg %wu_nick $($+(%,wu_a,%i,_message,%i_msg),2)
+
+          inc %i_gc
+
+          inc %i_msg
+
+        }
+
+        inc %i
+
+      }
+
+      .timer 1 %i_gc .msg %wu_nick --------- End of Alerts -------
+
+    }
+
+  }
+
+
+
+
+
+  unset %wu_*
+
+  ;echo -s End-------- of WU $time --------
+
+}
